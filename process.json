@@ -1,0 +1,10 @@
+{
+  "name": "circler",
+  "script": "bin/www",
+  "watch": "../",
+  "exec_mode": "fork",
+  "instances": 0,
+  "env": {
+    "NODE_DEBUG" : "http,net"
+  }
+}
